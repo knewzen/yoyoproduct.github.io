@@ -1,0 +1,107 @@
+html {
+  font-size: 12px;
+  font-family: Areal;
+}
+body {
+  font-family: 'museo_reg', sans-serif;
+}
+section {
+  padding: 4rem 0 8rem;
+}
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+button:focus,
+input:focus,
+a:focus,
+textarea:focus {
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: Arial;
+}
+.check-box {
+  width: 260px;
+  margin: 0 auto;
+}
+.container {
+  padding-top: 100px;
+  margin: 0 auto;
+  width: 570px;
+  height: 570px;
+  background: url(../img/bg.png) no-repeat;
+}
+.box-form {
+  border: 1px solid #cfdede;
+  width: 320px;
+  height: 370px;
+  background-color: #fff;
+  margin: 0 auto;
+}
+.form-title {
+  padding-top: 7px;
+  font-weight: 900;
+  color: #fff;
+  text-align: center;
+  width: 149px;
+  height: 25px;
+  background-color: #01b3b3;
+  margin-left: 30px;
+  position: relative;
+  bottom: 4px;
+}
+.name-input:first-child {
+  margin-top: 28px;
+  font-size: 12px;
+  font-weight: 900;
+  margin-bottom: 13px;
+}
+input:last-child {
+  margin-bottom: 34px;
+}
+.name-input {
+  margin-top: 19px;
+  font-size: 12px;
+  font-weight: 900;
+  margin-bottom: 13px;
+}
+input {
+  width: 260px;
+  height: 30px;
+  border: 1px solid #cfdede;
+}
+input::-webkit-input-placeholder {
+  padding-left: 10px;
+}
+input:-ms-input-placeholder {
+  padding-left: 10px;
+}
+input::placeholder {
+  padding-left: 10px;
+}
+button {
+  margin-top: 35px;
+  width: 260px;
+  height: 45px;
+  background-color: #01c2c2;
+  border-radius: 3%;
+}
+button p {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #fff;
+  font-size: 16px;
+}
