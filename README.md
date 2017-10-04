@@ -7,10 +7,10 @@
 [Урок №13.](https://yoyoproduct.github.io/lesson%20-%2013/index.html ) - Pixel perfect (ГОРИ В АДУ)
 
 
-[Практичекое задание.](https://yoyoproduct.github.io/Practic-lesson/index.html ) - Создание шапки сайта
+[Практичекое задание 1.](https://yoyoproduct.github.io/Practic-lesson/index.html ) - Создание шапки сайта
 
 
 [Урок №14.](https://yoyoproduct.github.io/lesson-14/index.html) - Подбор шрифтов
 
 
-[Урок №15.](https://yoyoproduct.github.io/lesson-15/index.html) - Подключение шрифтов и верстка главного экрана
+[Практичекое задание 2.](https://yoyoproduct.github.io/lesson-15/index.html) - Подключение шрифтов и верстка главного экрана
