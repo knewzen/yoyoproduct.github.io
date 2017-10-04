@@ -14,3 +14,12 @@
 
 
 [Практичекое задание 2.](https://yoyoproduct.github.io/lesson-15/index.html) - Подключение шрифтов и верстка главного экрана
+
+
+[Урок №15.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2015/index.html) - Псевдоклассы и псевдоэлементы.
+
+
+[Практичекое задание 3.](https://yoyoproduct.github.io/Practic-lesson-3/index.html) - Эффекты при наведении и адаптив первого экрана
+
+
+
