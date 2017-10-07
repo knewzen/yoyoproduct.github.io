@@ -25,6 +25,10 @@
 [Урок №16.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2016/index.html) - Слайдер на сайте(На GitHub не открывается).
 
 
+[Практичекое задание 4.](yoyoproduct.github.io/Практика. Часть 4./) - Верстка блока с преимуществами. Слайдер.
+
+
 [Урок №17.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2017/index.html) - Всплывающие окна.
+
 
 
