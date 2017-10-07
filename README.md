@@ -22,4 +22,7 @@
 [Практичекое задание 3.](https://yoyoproduct.github.io/Practic-lesson-3/index.html) - Эффекты при наведении и адаптив первого экрана
 
 
+[Урок №16.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2016/index.html) - Слайдер на сайте(На GitHub не открывается).
+
+
 
