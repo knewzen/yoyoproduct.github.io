@@ -25,4 +25,6 @@
 [Урок №16.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2016/index.html) - Слайдер на сайте(На GitHub не открывается).
 
 
+[Урок №17.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2017/index.html) - Всплывающие окна.
+
 
