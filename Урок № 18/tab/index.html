@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Заголовок страницы</title>
+
+  </head>
+  <body>
+    <div class="container">
+    	 <div class="tabs-block">
+	    	 <!-- Nav tabs -->
+	    	  <ul class="nav nav-tabs" role="tablist">
+	    	    <li role="presentation" class="active"><a href="#enter" aria-controls="enter" role="tab" data-toggle="tab">Вход</a></li>
+	    	    <li role="presentation"><a href="#reg" aria-controls="reg" role="tab" data-toggle="tab">Регистрация</a></li>
+	    	  </ul>
+
+	    	  <!-- Tab panes -->
+	    	  <div class="tab-content">
+	    	    <div role="tabpanel" class="tab-pane active" id="enter">
+	    	    	<form action="#">
+	    	    		<input type="text" placeholder="Ваше имя">
+	    	    		<input type="password" placeholder="Пароль">
+	    	    		<small> <a  class="zab-pass" href="#">Забыли пароль ?</a></small>
+	    	    		<br>
+	    	    		<div class="say-me">
+	    	    				<input type="checkbox"> Напомнить мне
+	    	    		</div>
+	    	    		<button class="btn button"> Войти</button>
+	    	    	</form>
+	    	    </div>
+
+
+	    	    <div role="tabpanel" class="tab-pane" id="reg">Reg</div>
+	    	  </div>
+		</div>
+    	</div>
+
+ 
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css"/>
+    
+  </body>
+</html>
