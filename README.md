@@ -37,7 +37,7 @@
 [Урок №18.](https://github.com/yoyoproduct/yoyoproduct.github.io/tree/master/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018)
 
 
-[Табы](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/tab/index.html)
+  [1)Табы](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/tab/index.html)
 
 
-[Аккордеон] (https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/akkardion/index.html)
+  [2)Аккордеон](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/akkardion/index.html)
