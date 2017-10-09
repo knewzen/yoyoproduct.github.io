@@ -34,7 +34,7 @@
 [Практическое задание 5.](https://github.com/yoyoproduct/yoyoproduct.github.io/blob/master/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%205./%D0%90%D1%80%D1%85%D0%B8%D0%B2.zip) - Верстка всплывающих окон на сайте
 
 
-[Урок №18.](https://github.com/yoyoproduct/yoyoproduct.github.io/tree/master/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018)(ссылка на папку с табами и аккортеоном)
+[Урок №18.](https://github.com/yoyoproduct/yoyoproduct.github.io/tree/master/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018) - (ссылка на папку с табами и аккортеоном)
 
 
   [1)Табы](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/tab/index.html)
