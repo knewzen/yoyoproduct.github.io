@@ -31,4 +31,7 @@
 [Урок №17.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2017/index.html) - Всплывающие окна.
 
 
+[Практичекое задание 5.](http://http://yoyoproduct.github.io/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%205./%D0%90%D1%80%D1%85%D0%B8%D0%B2.zip) - Верстка всплывающих окон на сайте
+
+
 
