@@ -41,3 +41,7 @@
 
 
   [2)Аккордеон](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20%E2%84%96%2018/akkardion/index.html)
+  
+  
+ [Практическое задание 6.](https://yoyoproduct.github.io/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%206/index.html) - Верстка блока с ценами
+
