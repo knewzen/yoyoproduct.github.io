@@ -52,3 +52,5 @@
 
 [Урок №20.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%2020/index.html) - Видео-фон на сайте.
 
+
+[Практическое задание 8.](https://yoyoproduct.github.io/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%208/index.html) - Доверстали блок с отзывами.
