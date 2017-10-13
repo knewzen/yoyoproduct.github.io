@@ -54,3 +54,10 @@
 
 
 [Практическое задание 8.](https://yoyoproduct.github.io/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%208/index.html) - Доверстали блок с отзывами.
+
+
+[Урок №21.](https://yoyoproduct.github.io/%D0%A3%D1%80%D0%BE%D0%BA%20-21/index.html) - Parallax эффект для сайта.
+
+
+[Практическое задание 9.](https://yoyoproduct.github.io/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%D1%87%D0%B0%D1%81%D1%82%D1%8C%20(9)/index.html) - 
+Верстаем схему работы и все включено
