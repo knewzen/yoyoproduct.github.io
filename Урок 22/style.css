@@ -1,0 +1,78 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	background-color: #fff;
+	padding: 2rem;
+}
+
+.container {
+	position: relative;
+}
+
+.main-contakt	{
+	position: absolute;
+	bottom: 0;
+	height: 40rem;
+	width: 38rem;
+	text-align: center;
+	background-color:#c60b0b;
+	z-index: 2;
+}
+
+.main-contakt h2 {
+	color: #fff;
+	font-size: 3rem;
+}
+.main-contakt li {
+	margin: 0;
+	color: #fff;
+	margin-top: 4rem;
+	list-style: none;
+	font-size: 1.5rem;
+}
+
+li a {
+	text-decoration: none;
+	color: #fff;
+}
+.logo {
+	display: flex;
+}
+
+.section-map {
+	z-index: 1;
+}
+.logo-title {
+	padding-top: 1rem;
+	margin-left: 2rem;
+	font-size: 1.5rem;
+	font-weight: 900;
+	text-align: left;
+}
+
+.information {
+	color: #666666;
+	font-size: 1.5rem;
+}
+
+.contakt {
+	font-weight: 900;
+}
+.number {
+	font-size: 1.9rem;
+}
+.adres {
+	font-size: 1.5rem;
+}
